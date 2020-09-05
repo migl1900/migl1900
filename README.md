@@ -1,5 +1,13 @@
-### Hi there 👋
+## Hej 👋
+Jag har i första hand skapat detta Github-konto för att använda i utbildningssyfte. Jag läser Webbutveckling på Mittuniversitetet och flera av våra kurser använder Git och Github för versionshantering.
 
+Här är några exempel på arbeten jag gjort under utbildningen:
+* https://cc2.nu/
+* https://webicon.se/
+* https://www.jkklubb.se/
+* http://telekalkyl.se/
+
+📫 Om ni vill komma i kontakt med mig går det bra på migl1900@student.miun.se
 <!--
 **migl1900/migl1900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
