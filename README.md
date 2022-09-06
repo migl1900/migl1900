@@ -7,7 +7,7 @@ Här är några exempel på arbeten jag gjort under utbildningen:
 * https://www.jkklubb.se/
 * http://telekalkyl.se/
 
-📫 Om ni vill komma i kontakt med mig går det bra på migl1900@student.miun.se
+📫 Om ni vill komma i kontakt med mig går det bra på michael.glimmerdahl@gmail.com
 <!--
 **migl1900/migl1900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
