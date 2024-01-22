@@ -1,11 +1,5 @@
 ## Hej 👋
-Jag har i första hand skapat detta Github-konto för att använda i utbildningssyfte. Jag läser Webbutveckling på Mittuniversitetet och flera av våra kurser använder Git och Github för versionshantering.
-
-Här är några exempel på arbeten jag gjort under utbildningen:
-* https://cc2.nu/
-* https://webicon.se/
-* https://www.jkklubb.se/
-* http://telekalkyl.se/
+Jag har i första hand skapat detta Github-konto för att använda i till mina privata projekt.
 
 📫 Om ni vill komma i kontakt med mig går det bra på michael.glimmerdahl@gmail.com
 <!--
